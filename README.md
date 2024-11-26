@@ -1,2 +1,2 @@
 # TechBasics
-Digital Media Tech Basics
+Digital Media Tech Basics Course with Sarah Haq
